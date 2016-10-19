@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1427016660 source:c:\program files (x86)\codeblocks\programmes\pandemonium\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+
